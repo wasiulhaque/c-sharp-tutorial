@@ -28,8 +28,7 @@ namespace SimpleWordle
                 guessCount++;
 
                 Console.Write("\nEnter your guess: ");
-                guess = Console.ReadLine();
-                guess = guess.ToUpper();
+                guess = Console.ReadLine().ToUpper();
 
                 if (guess.Length > 5)
                 {
