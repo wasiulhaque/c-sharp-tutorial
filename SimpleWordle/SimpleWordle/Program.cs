@@ -33,6 +33,7 @@ namespace SimpleWordle
                 if (guess.Length > 5)
                 {
                     Console.WriteLine("Input must be within 5 letters.");
+                    guessCount--;
                 }
 
                 else
