@@ -1,0 +1,14 @@
+F:\Wasiul\c-sharp-tutorial\SimpleWordle\SimpleWordle\bin\Debug\netcoreapp3.1\SimpleWordle.exe
+F:\Wasiul\c-sharp-tutorial\SimpleWordle\SimpleWordle\bin\Debug\netcoreapp3.1\SimpleWordle.deps.json
+F:\Wasiul\c-sharp-tutorial\SimpleWordle\SimpleWordle\bin\Debug\netcoreapp3.1\SimpleWordle.runtimeconfig.json
+F:\Wasiul\c-sharp-tutorial\SimpleWordle\SimpleWordle\bin\Debug\netcoreapp3.1\SimpleWordle.runtimeconfig.dev.json
+F:\Wasiul\c-sharp-tutorial\SimpleWordle\SimpleWordle\bin\Debug\netcoreapp3.1\SimpleWordle.dll
+F:\Wasiul\c-sharp-tutorial\SimpleWordle\SimpleWordle\bin\Debug\netcoreapp3.1\SimpleWordle.pdb
+F:\Wasiul\c-sharp-tutorial\SimpleWordle\SimpleWordle\obj\Debug\netcoreapp3.1\SimpleWordle.csproj.AssemblyReference.cache
+F:\Wasiul\c-sharp-tutorial\SimpleWordle\SimpleWordle\obj\Debug\netcoreapp3.1\SimpleWordle.GeneratedMSBuildEditorConfig.editorconfig
+F:\Wasiul\c-sharp-tutorial\SimpleWordle\SimpleWordle\obj\Debug\netcoreapp3.1\SimpleWordle.AssemblyInfoInputs.cache
+F:\Wasiul\c-sharp-tutorial\SimpleWordle\SimpleWordle\obj\Debug\netcoreapp3.1\SimpleWordle.AssemblyInfo.cs
+F:\Wasiul\c-sharp-tutorial\SimpleWordle\SimpleWordle\obj\Debug\netcoreapp3.1\SimpleWordle.csproj.CoreCompileInputs.cache
+F:\Wasiul\c-sharp-tutorial\SimpleWordle\SimpleWordle\obj\Debug\netcoreapp3.1\SimpleWordle.dll
+F:\Wasiul\c-sharp-tutorial\SimpleWordle\SimpleWordle\obj\Debug\netcoreapp3.1\SimpleWordle.pdb
+F:\Wasiul\c-sharp-tutorial\SimpleWordle\SimpleWordle\obj\Debug\netcoreapp3.1\SimpleWordle.genruntimeconfig.cache
